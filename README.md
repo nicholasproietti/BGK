@@ -1,2 +1,2 @@
 # BGK
-Implicit and explicit numerical solutions to the Bhatnagar–Gross–Krook (BGK) equation using `Distributions.jl` and `MonteCarloMeasurements.jl`.
+Time-dependent and space-dependent evolutions for the Maxwellian distribution function using the Bhatnagar–Gross–Krook (BGK) (relaxation) collision operator
